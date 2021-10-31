@@ -1,5 +1,6 @@
 import React from "react";
 
+
 function Contact() {
     return (
         <div className="contact">
@@ -14,9 +15,7 @@ function Contact() {
                     </div>
                     <div class="col-lg-5">
                         <h1 class="font-weight-light">Contact</h1>
-                        <p>
-                            Contact coming soon.
-                        </p>
+                        <p> Contact Coming Soon </p>
                     </div>
                 </div>
             </div>
